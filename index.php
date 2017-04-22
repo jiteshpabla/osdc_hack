@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="icon" href="images/dlf.ico" type ="image/x-icon" >
+<link rel="icon" href="images/logo.png" type ="image/x-icon" >
 </head>
 <body>
 <?php include'header.php';?>
