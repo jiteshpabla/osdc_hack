@@ -76,7 +76,7 @@
 
 <!-- Header Starts -->
 <div class="header">
-<a href="index.php"><img src="images/logo.png" alt="Realestate" width="80" height="80" ></a>
+<a href="index.php"><img src="images/logo.png" alt="" width="80" height="80" ></a>
 
               <ul class="pull-right">
                 <li><a href="tutor-list.php">Tutors</a></li>
